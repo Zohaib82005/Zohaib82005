@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Zohaib82005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -92,9 +92,9 @@ Automating business processes using APIs, AI Agents, and n8n.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Zohaib82005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib82005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -104,7 +104,7 @@ Automating business processes using APIs, AI Agents, and n8n.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zohaib82005&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -114,7 +114,7 @@ Automating business processes using APIs, AI Agents, and n8n.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zohaib82005&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -124,7 +124,7 @@ Automating business processes using APIs, AI Agents, and n8n.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zohaib82005&theme=tokyo-night"/>
 
 </div>
 
