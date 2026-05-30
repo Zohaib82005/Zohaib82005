@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Muhammad Zohaib</h1>
 <h3 align="center">🚀 Laravel Developer | 🤖 AI Enthusiast | 💻 Software Engineering Student</h3>
 
@@ -58,13 +58,13 @@
 
 ## 🔥 Current Focus
 
-```text
+
 🌐 Advanced Laravel Development
 🤖 AI-Powered Applications
 📊 Machine Learning & Data Science
 ⚡ n8n Automation Workflows
 🚀 SaaS Product Development
-````
+
 
 ---
 
