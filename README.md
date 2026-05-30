@@ -1,112 +1,172 @@
-# 👋 Hi, I'm Muhammad Zohaib
+````md
+<h1 align="center">Hi 👋, I'm Muhammad Zohaib</h1>
+<h3 align="center">🚀 Laravel Developer | 🤖 AI Enthusiast | 💻 Software Engineering Student</h3>
 
-### 💻 Software Engineer | Laravel Developer | AI & Machine Learning Enthusiast
+<div align="center">
 
-I'm a Software Engineering student at FAST NUCES with a strong passion for building scalable web applications and solving real-world problems through technology.
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
-Currently, I focus on:
+</div>
 
-* 🌐 Full-Stack Web Development with Laravel
-* ⚛️ React & Modern JavaScript
-* 🤖 AI, Machine Learning, and Data Science
-* 🔗 REST APIs & System Integration
-* ☁️ Deployment, Automation, and Cloud Technologies
+---
+
+## 🌟 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+🎓 Software Engineering Student at FAST NUCES
+
+🌐 Passionate about Full-Stack Web Development
+
+🔥 Specialized in Laravel & PHP
+
+🤖 Currently learning AI, Machine Learning & Data Science
+
+⚡ Building real-world products and automation systems
+
+🎯 Goal: Launch an AI-focused Software House
 
 ---
 
 ## 🚀 Tech Stack
 
-### Backend
+### 💻 Languages
 
-* Laravel
-* PHP
-* MySQL
-* REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,python,cpp,html,css" />
+</p>
 
-### Frontend
+### ⚙️ Frameworks & Libraries
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Bootstrap
-* Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,nodejs" />
+</p>
 
-### Programming Languages
+### 🛠 Tools & Platforms
 
-* PHP
-* JavaScript
-* Python
-* C++
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,linux,vscode,postman" />
+</p>
 
-### Tools & Technologies
+### 🤖 AI & Data Science
 
-* Git & GitHub
-* Docker
-* Postman
-* Linux
-* n8n Automation
-* Firebase
-
-### AI & Data Science
-
-* Python
-* NumPy
-* Pandas
-* Machine Learning
-* Data Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 ---
 
 ## 🔥 Current Focus
 
-* Building advanced Laravel applications
-* Learning Machine Learning and AI development
-* Developing intelligent web applications
-* Exploring Agentic AI and AI Automation
-* Creating portfolio projects that solve real-world problems
+```text
+🌐 Advanced Laravel Development
+🤖 AI-Powered Applications
+📊 Machine Learning & Data Science
+⚡ n8n Automation Workflows
+🚀 SaaS Product Development
+````
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 📚 University Notes Marketplace
 
-A Laravel-based platform where students can purchase access to study notes using JazzCash, Easypaisa, and bank transfers.
+Laravel-based platform allowing students to purchase study notes using:
 
-### 🤖 AI-Powered Web Applications
+* JazzCash
+* Easypaisa
+* Bank Transfers
 
-Integrating AI assistants and automation workflows into modern web platforms.
+### 🤖 AI Website Assistant
 
-### ⚡ Automation Systems
+AI-powered chatbot integrated with Laravel and React.
 
-Building workflow automation using n8n, APIs, and AI agents.
+### ⚡ Workflow Automation System
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+Automating business processes using APIs, AI Agents, and n8n.
 
 ---
 
-## 🎯 Goals for 2026
+## 📊 GitHub Analytics
 
-* Master Laravel Ecosystem
-* Build Production-Level AI Applications
-* Contribute to Open Source
-* Launch Innovative SaaS Products
-* Start an AI-Focused Software House
+<div align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📫 Connect With Me
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* GitHub: https://github.com/YOUR_USERNAME
+</div>
 
 ---
 
-> "Building software that solves problems and creating technology that makes an impact."
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+✅ Master Laravel Ecosystem
+
+✅ Learn Machine Learning & AI
+
+✅ Build Production-Level SaaS Products
+
+✅ Contribute to Open Source
+
+✅ Start My Own Software House
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
+```
