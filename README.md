@@ -1,41 +1,112 @@
-### 👋 Hi there, I'm Muhammad Zohaib!
+# 👋 Hi, I'm Muhammad Zohaib
+
+### 💻 Software Engineer | Laravel Developer | AI & Machine Learning Enthusiast
+
+I'm a Software Engineering student at FAST NUCES with a strong passion for building scalable web applications and solving real-world problems through technology.
+
+Currently, I focus on:
+
+* 🌐 Full-Stack Web Development with Laravel
+* ⚛️ React & Modern JavaScript
+* 🤖 AI, Machine Learning, and Data Science
+* 🔗 REST APIs & System Integration
+* ☁️ Deployment, Automation, and Cloud Technologies
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+## 🚀 Tech Stack
 
-<h3>When I code, I rely on</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+### Backend
 
-<h3>My most recent articles</h3>
-<ul>
-  <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414"><i>Getting Started with React: A Beginner’s Guide to Setting Up Your First Application</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658"><i>Pushing Your First React App to GitHub: A Step-by-Step Guide</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173"><i>The Ultimate Checklist for Starting a React Project: Best Practices and Tips</i></a></li>
-</ul>
+* Laravel
+* PHP
+* MySQL
+* REST APIs
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
+### Frontend
 
-<a href="https://www.buymeacoffee.com/cycosad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Bootstrap
+* Tailwind CSS
 
-<h3>My GitHub contributions summary</h3>
+### Programming Languages
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+* PHP
+* JavaScript
+* Python
+* C++
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+### Tools & Technologies
+
+* Git & GitHub
+* Docker
+* Postman
+* Linux
+* n8n Automation
+* Firebase
+
+### AI & Data Science
+
+* Python
+* NumPy
+* Pandas
+* Machine Learning
+* Data Analysis
+
+---
+
+## 🔥 Current Focus
+
+* Building advanced Laravel applications
+* Learning Machine Learning and AI development
+* Developing intelligent web applications
+* Exploring Agentic AI and AI Automation
+* Creating portfolio projects that solve real-world problems
+
+---
+
+## 📌 Featured Projects
+
+### 📚 University Notes Marketplace
+
+A Laravel-based platform where students can purchase access to study notes using JazzCash, Easypaisa, and bank transfers.
+
+### 🤖 AI-Powered Web Applications
+
+Integrating AI assistants and automation workflows into modern web platforms.
+
+### ⚡ Automation Systems
+
+Building workflow automation using n8n, APIs, and AI agents.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🎯 Goals for 2026
+
+* Master Laravel Ecosystem
+* Build Production-Level AI Applications
+* Contribute to Open Source
+* Launch Innovative SaaS Products
+* Start an AI-Focused Software House
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+> "Building software that solves problems and creating technology that makes an impact."
